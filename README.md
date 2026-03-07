@@ -42,20 +42,3 @@ All the extracted information is stored in a Python dictionary.
 
 Finally, the dictionary is exported as a JSON file.
 
-## Output
-
-The final result is a JSON dictionary where each concept ID corresponds to an entry with the extracted information.
-
-Example:
-
-```json
-{
-  "1": {
-    "galego": "ala",
-    "dom": "Anatomía",
-    "es": "ala",
-    "en": "wing",
-    "pt": "asa",
-    "la": "ala"
-  }
-}

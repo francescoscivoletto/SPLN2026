@@ -1,6 +1,5 @@
-content = """# TPC 5 - Named Entity Recognition with BERT and spaCy
+# TPC 5 - Named Entity Recognition with BERT and spaCy
 
-**Date:** 2026-04-23
 
 ## Overview
 
